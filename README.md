@@ -10,7 +10,7 @@
 - 🥅 Upcoming Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook food and spend time with friends on beer
 
-### My Online Playlists 🎧
+### My Online Playlist 🎧
 
 [<img src="https://media.giphy.com/media/EixHusPDkJT5S/giphy.gif" alt="Rajat's Saavan Playlist" width="220px" hieght="160px"/>](https://www.jiosaavn.com/s/playlist/d7fa7608b0fb6eb8f6b2a2ef36150b03/chutney/S9B8Rp5dDljufxkxMEIbIw__)
 
