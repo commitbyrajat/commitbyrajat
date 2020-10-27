@@ -12,7 +12,7 @@
 
 ### Saavan Playing 🎧
 
-[<img src="https://images.app.goo.gl/MztuhpbBqzHyWWeP9" alt="rajat965ng Spotify Playing" width="350" />](https://www.jiosaavn.com/song/utopia/FykmcDFWB0Y)
+[<img src="https://giphy.com/gifs/5xtDarxdYRAjtVz5RqU/html5" alt="rajat965ng Saavan Playing" width="350" />](https://www.jiosaavn.com/song/utopia/FykmcDFWB0Y)
 
 ### Connect with me:
 
@@ -34,6 +34,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />]()
 
 <br />
 <br />
