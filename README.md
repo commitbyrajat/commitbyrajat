@@ -12,7 +12,7 @@
 
 ### Saavan Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rajat965ng Saavan Playing" width="350" />](https://www.jiosaavn.com/song/utopia/FykmcDFWB0Y)
+[<img src="https://i.gifer.com/7d20.gif" alt="rajat965ng Saavan Playing" width="350" />](https://www.jiosaavn.com/song/utopia/FykmcDFWB0Y)
 
 ### Connect with me:
 
