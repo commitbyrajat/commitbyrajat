@@ -12,7 +12,7 @@
 
 ### Saavan Playing 🎧
 
-[<img src="https://media.giphy.com/media/EixHusPDkJT5S/giphy.gif" alt="Rajat's Saavan Playlist" width="350px"/>](https://www.jiosaavn.com/song/utopia/FykmcDFWB0Y)
+[<img src="https://media.giphy.com/media/EixHusPDkJT5S/giphy.gif" alt="Rajat's Saavan Playlist" width="220px"/>](https://www.jiosaavn.com/song/utopia/FykmcDFWB0Y)
 
 ---
 ### Connect with me:
