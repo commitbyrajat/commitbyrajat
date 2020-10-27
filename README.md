@@ -1,8 +1,8 @@
-### Hi there, I'm Rajat 👋
+### Hi there, I'm Rajat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/densehunger?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajat965ng&screen_name=densehunger)
 
-## I'm a Friend, Husband, Son, and Developer !!
+## I'm a Husband, Friend, and Developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 In the hope of eliminating the continuous fear of unknown, I commit my learnings on GitHub
@@ -12,7 +12,7 @@
 
 ### Saavan Playing 🎧
 
-[<img src="https://giphy.com/gifs/5xtDarxdYRAjtVz5RqU/html5" alt="rajat965ng Saavan Playing" width="350" />](https://www.jiosaavn.com/song/utopia/FykmcDFWB0Y)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rajat965ng Saavan Playing" width="350" />](https://www.jiosaavn.com/song/utopia/FykmcDFWB0Y)
 
 ### Connect with me:
 
