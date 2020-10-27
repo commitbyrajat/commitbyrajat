@@ -64,4 +64,4 @@
 
 </details>
 
-[linkedin]: https://linkedin.com/in/rajat-nigam-877208127
+[linkedin]: https://in.linkedin.com/in/rajat-nigam-877208127
