@@ -49,6 +49,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Data Wrangling Zone using ksqlDB, kTable, kStream, and Kafka Connect](https://rajatnigamps.medium.com/building-data-wrangling-zone-using-ksqldb-ktable-kstream-and-kafka-connect-646b6ef2371c)
 - [Implementing CQRS using Axon, Spring Boot, Kotlin, Java 11, and Docker](https://medium.com/faun/implementing-cqrs-using-axon-spring-boot-kotlin-java-11-and-docker-77b44f14b7ab)
 - [K8 Programming: Build your first operator to read the cluster state.](https://medium.com/faun/k8-programming-build-your-first-operator-to-read-the-cluster-state-3b48e955325b)
 - [My understanding of using ElasticSearch as cache](https://medium.com/faun/my-understanding-of-using-elasticsearch-as-cache-7e2d62ee4b5d)
