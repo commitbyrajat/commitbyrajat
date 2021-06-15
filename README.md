@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/densehunger?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajat965ng&screen_name=densehunger)
 
-## I'm a Husband, Friend, and a Developer !!
+## I'm a Husband, Friend, and a Programmer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 In the hope of eliminating the continuous fear of unknown, I commit my learnings on GitHub
@@ -49,6 +49,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitOps On Kubernetes In Just 15 Minutes](https://medium.com/engineered-publicis-sapient/gitops-on-kubernetes-in-just-15-minutes-1f609f373a21)
 - [Building Data Wrangling Zone using ksqlDB, kTable, kStream, and Kafka Connect](https://rajatnigamps.medium.com/building-data-wrangling-zone-using-ksqldb-ktable-kstream-and-kafka-connect-646b6ef2371c)
 - [Implementing CQRS using Axon, Spring Boot, Kotlin, Java 11, and Docker](https://medium.com/faun/implementing-cqrs-using-axon-spring-boot-kotlin-java-11-and-docker-77b44f14b7ab)
 - [K8 Programming: Build your first operator to read the cluster state.](https://medium.com/faun/k8-programming-build-your-first-operator-to-read-the-cluster-state-3b48e955325b)
