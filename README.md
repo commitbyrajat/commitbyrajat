@@ -10,10 +10,6 @@
 - 🥅 Upcoming Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook food and spend time with friends on beer
 
-### My Online Playlist 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Rajat's Spotify Playing" width="350" />](https://www.jiosaavn.com/s/playlist/d7fa7608b0fb6eb8f6b2a2ef36150b03/chutney/S9B8Rp5dDljufxkxMEIbIw__)
-
 ---
 ### Connect with me:
 
