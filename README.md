@@ -45,6 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visual Programming | Create Microservices/Monoliths Faster Than Cooking 2min Noodles](https://medium.com/geekculture/visual-programming-create-microservices-monoliths-faster-than-cooking-2min-noodles-7ea4bfe8b920)
 - [OpenFaas | Serverless | Speed up business transformations made simple](https://medium.com/engineered-publicis-sapient/openfaas-serverless-speed-up-business-transformations-made-simple-2972bef5b969)
 - [GitOps On Kubernetes In Just 15 Minutes](https://medium.com/engineered-publicis-sapient/gitops-on-kubernetes-in-just-15-minutes-1f609f373a21)
 - [Building Data Wrangling Zone using ksqlDB, kTable, kStream, and Kafka Connect](https://rajatnigamps.medium.com/building-data-wrangling-zone-using-ksqldb-ktable-kstream-and-kafka-connect-646b6ef2371c)
