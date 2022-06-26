@@ -1,4 +1,4 @@
-### Hi there, I'm Rajat <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25px" hieght="2px">
+### Hi there, I'm Rajat <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25px" height="5%">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/densehunger?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajat965ng&screen_name=densehunger)
 
