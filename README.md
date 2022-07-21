@@ -45,6 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sealed Secrets | Secure And Simple Way Of Storing Kubernetes Secrets In Git](https://faun.pub/sealed-secrets-secure-and-simple-way-of-storing-kubernetes-secrets-in-git-353b0e2e1641)
 - [API Security | General Purpose Authentication/Authorization using Envoy, OPA, and Nginx](https://faun.pub/api-security-general-purpose-authentication-authorization-using-envoy-opa-and-nginx-6286cd7db391)
 - [Gatekeeper | K8 hardening backlog](https://faun.pub/gatekeeper-k8-hardening-backlog-956d1b6860b6)
 - [Mcrouter | Setup cache infrastructure that handles 5 billion requests per second at peak](https://faun.pub/mcrouter-setup-cache-infrastructure-that-handles-5-billion-requests-per-second-at-peak-3a1a8fe4b222)
