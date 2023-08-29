@@ -45,6 +45,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI: Retrieval Augmentation Generation using LangChain and Pinecone | Part 2](https://medium.com/@rajatnigam89/generative-ai-retrieval-augmentation-generation-using-langchain-and-pinecone-part-2-e8c961aa2dc3)
+- [Generative AI: Develop LLM-powered applications with LangChain, Python, and Milvus (VectorDB) | Part 1](https://medium.com/@rajatnigam89/generative-ai-develop-llm-powered-applications-with-langchain-python-and-milvus-vectordb-5b796c0c05e3)
+- [OpenL Tablets: No-code, Open-Source & MS Excel-Driven Rules Engine For Managing Business Rules And Data](https://medium.com/geekculture/openl-tablets-no-code-open-source-ms-excel-driven-rules-engine-for-managing-business-rules-and-4671798c7e3)
+- [Camel-K: Configuration-Driven Integration Platform](https://medium.com/geekculture/camel-k-configuration-driven-integration-platform-73c50b7d14d5)
 - [Sealed Secrets | Secure And Simple Way Of Storing Kubernetes Secrets In Git](https://faun.pub/sealed-secrets-secure-and-simple-way-of-storing-kubernetes-secrets-in-git-353b0e2e1641)
 - [API Security | General Purpose Authentication/Authorization using Envoy, OPA, and Nginx](https://faun.pub/api-security-general-purpose-authentication-authorization-using-envoy-opa-and-nginx-6286cd7db391)
 - [Gatekeeper | K8 hardening backlog](https://faun.pub/gatekeeper-k8-hardening-backlog-956d1b6860b6)
