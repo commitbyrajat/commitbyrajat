@@ -45,6 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space-Based Architecture](https://medium.com/@rajatnigam89/space-based-architecture-07c89d34b4da)
 - [Generative AI: Retrieval Augmentation Generation using LangChain and Pinecone | Part 2](https://medium.com/@rajatnigam89/generative-ai-retrieval-augmentation-generation-using-langchain-and-pinecone-part-2-e8c961aa2dc3)
 - [Generative AI: Develop LLM-powered applications with LangChain, Python, and Milvus (VectorDB) | Part 1](https://medium.com/@rajatnigam89/generative-ai-develop-llm-powered-applications-with-langchain-python-and-milvus-vectordb-5b796c0c05e3)
 - [OpenL Tablets: No-code, Open-Source & MS Excel-Driven Rules Engine For Managing Business Rules And Data](https://medium.com/geekculture/openl-tablets-no-code-open-source-ms-excel-driven-rules-engine-for-managing-business-rules-and-4671798c7e3)
