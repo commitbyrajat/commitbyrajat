@@ -45,6 +45,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparative Analysis of Service-Oriented Architecture (SOA) and Service-Based Architecture (SBA)](https://rajatnigam.hashnode.dev/comparative-analysis-of-service-oriented-architecture-soa-and-service-based-architecture-sba)
+- [Unlocking Business Agility with Event-Driven Architecture](https://medium.com/@rajatnigam89/unlocking-business-agility-with-event-driven-architecture-bbffb9459e90)
+- [The Art of Effective Checklists for Software Architects](https://rajatnigam.hashnode.dev/the-art-of-effective-checklists-for-software-architects)
+- [TOGAF In Nutshell](https://medium.com/@rajatnigam89/togaf-in-nutshell-bdd8428e7489)
 - [Space-Based Architecture](https://medium.com/@rajatnigam89/space-based-architecture-07c89d34b4da)
 - [Generative AI: Retrieval Augmentation Generation using LangChain and Pinecone | Part 2](https://medium.com/@rajatnigam89/generative-ai-retrieval-augmentation-generation-using-langchain-and-pinecone-part-2-e8c961aa2dc3)
 - [Generative AI: Develop LLM-powered applications with LangChain, Python, and Milvus (VectorDB) | Part 1](https://medium.com/@rajatnigam89/generative-ai-develop-llm-powered-applications-with-langchain-python-and-milvus-vectordb-5b796c0c05e3)
