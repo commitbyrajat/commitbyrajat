@@ -45,6 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI | How To Solve Coreference Resolution Issues In Chat Bots?](https://medium.com/@rajatnigam89/generative-ai-how-to-solve-coreference-resolution-issues-in-chat-bots-7232e79a58ec)
 - [Comparative Analysis of Service-Oriented Architecture (SOA) and Service-Based Architecture (SBA)](https://rajatnigam.hashnode.dev/comparative-analysis-of-service-oriented-architecture-soa-and-service-based-architecture-sba)
 - [Unlocking Business Agility with Event-Driven Architecture](https://medium.com/@rajatnigam89/unlocking-business-agility-with-event-driven-architecture-bbffb9459e90)
 - [The Art of Effective Checklists for Software Architects](https://rajatnigam.hashnode.dev/the-art-of-effective-checklists-for-software-architects)
