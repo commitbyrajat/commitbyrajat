@@ -45,6 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI: Unlocking Knowledge with LlamaIndex and Hugging Face in an On-Premise Setup](https://medium.com/@rajatnigam89/generative-ai-unlocking-knowledge-with-llamaindex-and-hugging-face-in-an-on-premise-setup-51ddc2dc3776)
 - [Generative AI | How To Solve Coreference Resolution Issues In Chat Bots?](https://medium.com/@rajatnigam89/generative-ai-how-to-solve-coreference-resolution-issues-in-chat-bots-7232e79a58ec)
 - [Comparative Analysis of Service-Oriented Architecture (SOA) and Service-Based Architecture (SBA)](https://rajatnigam.hashnode.dev/comparative-analysis-of-service-oriented-architecture-soa-and-service-based-architecture-sba)
 - [Unlocking Business Agility with Event-Driven Architecture](https://medium.com/@rajatnigam89/unlocking-business-agility-with-event-driven-architecture-bbffb9459e90)
