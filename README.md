@@ -45,6 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seaography: A Quick Dive into GraphQL for Rust Backend Development](https://medium.com/dev-genius/seaography-a-quick-dive-into-graphql-for-rust-backend-development-14178b568860)
+- [Rust Microservices 101: Sea ORM, Rocket, and PostgreSQL Essentials](https://medium.com/dev-genius/rust-microservices-101-sea-orm-rocket-and-postgresql-essentials-9a463e19c2bb)
+- [Boosting Performance with Quarkus: A Tale of Virtual Threads](https://medium.com/dev-genius/boosting-performance-with-quarkus-a-tale-of-virtual-threads-f6dd4627e94b)
+- [Exploring WebSockets with Golang and Fiber](https://medium.com/dev-genius/exploring-websockets-with-golang-and-fiber-479816c38f2c)
+- [Building a microservice with Rust and Actix-Web](https://medium.com/dev-genius/building-a-microservice-with-rust-and-actix-web-519e665063e6)
 - [Generative AI: Unlocking Knowledge with LlamaIndex and Hugging Face in an On-Premise Setup](https://medium.com/@rajatnigam89/generative-ai-unlocking-knowledge-with-llamaindex-and-hugging-face-in-an-on-premise-setup-51ddc2dc3776)
 - [Generative AI | How To Solve Coreference Resolution Issues In Chat Bots?](https://medium.com/@rajatnigam89/generative-ai-how-to-solve-coreference-resolution-issues-in-chat-bots-7232e79a58ec)
 - [Comparative Analysis of Service-Oriented Architecture (SOA) and Service-Based Architecture (SBA)](https://rajatnigam.hashnode.dev/comparative-analysis-of-service-oriented-architecture-soa-and-service-based-architecture-sba)
