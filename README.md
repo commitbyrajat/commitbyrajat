@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/densehunger?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajat965ng&screen_name=densehunger)
 
-## I'm a Husband, Friend, and a Programmer !!
+## I'm a Programmer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 In the hope of eliminating the continuous fear of unknown, I commit my learnings on GitHub
