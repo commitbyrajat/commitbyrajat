@@ -45,6 +45,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LangGraph Chatbots: A Journey into Pretending You Understand AI](https://medium.com/dev-genius/langgraph-chatbots-a-journey-into-pretending-you-understand-ai-4a5b909f7206)
+- [Spring Boot with R2DBC: A Match Made in Reactive Heaven (or Hell, if You’re a JDBC Purist)](https://medium.com/dev-genius/spring-boot-with-r2dbc-a-match-made-in-reactive-heaven-or-hell-if-youre-a-jdbc-purist-2e77d690a146)
+- [GenAI Microservice: Where AI Takes Over the Art of Writing E-Commerce Product Descriptions Nobody Asked For](https://medium.com/dev-genius/genai-microservice-where-ai-takes-over-the-art-of-writing-e-commerce-product-descriptions-nobody-f29491eec03f)
+- [Unveiling the Power of Apache Airflow: Orchestrating Data Workflows with Ease](https://medium.com/dev-genius/unveiling-the-power-of-apache-airflow-orchestrating-data-workflows-with-ease-f7cfb1d3e4d9)
 - [Seaography: A Quick Dive into GraphQL for Rust Backend Development](https://medium.com/dev-genius/seaography-a-quick-dive-into-graphql-for-rust-backend-development-14178b568860)
 - [Rust Microservices 101: Sea ORM, Rocket, and PostgreSQL Essentials](https://medium.com/dev-genius/rust-microservices-101-sea-orm-rocket-and-postgresql-essentials-9a463e19c2bb)
 - [Boosting Performance with Quarkus: A Tale of Virtual Threads](https://medium.com/dev-genius/boosting-performance-with-quarkus-a-tale-of-virtual-threads-f6dd4627e94b)
