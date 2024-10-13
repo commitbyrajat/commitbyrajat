@@ -45,6 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
+- [Building an Adaptive RAG System with LangGraph: Embedding Dynamic Query Routing](https://medium.com/@rajatnigam89/building-an-adaptive-rag-system-with-langgraph-embedding-dynamic-query-routing-1718f11855aa)
+- [Building a Self RAG System with LangGraph: Now with Hallucination Detection](https://medium.com/@rajatnigam89/building-a-self-rag-system-with-langgraph-now-with-hallucination-detection-7e66d6d21a97)
+- [Building a Corrective RAG System with LangGraph: Enhanced with Web Search](https://medium.com/@rajatnigam89/building-a-corrective-rag-system-with-langgraph-enhanced-with-web-search-9e2412b05165)
+- [LLM Agent SOS: Best Practices and Considerations for Implementation](https://medium.com/@rajatnigam89/llm-agent-sos-best-practices-and-considerations-for-implementation-90bda9583cba)
 - [LangGraph Chatbots: A Journey into Pretending You Understand AI](https://medium.com/dev-genius/langgraph-chatbots-a-journey-into-pretending-you-understand-ai-4a5b909f7206)
 - [Spring Boot with R2DBC: A Match Made in Reactive Heaven (or Hell, if You’re a JDBC Purist)](https://medium.com/dev-genius/spring-boot-with-r2dbc-a-match-made-in-reactive-heaven-or-hell-if-youre-a-jdbc-purist-2e77d690a146)
 - [GenAI Microservice: Where AI Takes Over the Art of Writing E-Commerce Product Descriptions Nobody Asked For](https://medium.com/dev-genius/genai-microservice-where-ai-takes-over-the-art-of-writing-e-commerce-product-descriptions-nobody-f29491eec03f)
