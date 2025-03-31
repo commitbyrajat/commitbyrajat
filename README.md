@@ -45,7 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Using langgraph-bigtool to Calculate XIRR with an AI Agent](https://rajatnigam89.medium.com/using-langgraph-bigtool-to-calculate-xirr-with-an-ai-agent-20ba6df8095d?sk=123730c4fb906604f5a8cea106523bd3)
 - [Building an Adaptive RAG System with LangGraph: Embedding Dynamic Query Routing](https://medium.com/@rajatnigam89/building-an-adaptive-rag-system-with-langgraph-embedding-dynamic-query-routing-1718f11855aa)
 - [Building a Self RAG System with LangGraph: Now with Hallucination Detection](https://medium.com/@rajatnigam89/building-a-self-rag-system-with-langgraph-now-with-hallucination-detection-7e66d6d21a97)
 - [Building a Corrective RAG System with LangGraph: Enhanced with Web Search](https://medium.com/@rajatnigam89/building-a-corrective-rag-system-with-langgraph-enhanced-with-web-search-9e2412b05165)
