@@ -45,6 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Dynamic Knowledge Graphs: Supercharging AI Agents with Graphiti](https://rajatnigam89.medium.com/building-dynamic-knowledge-graphs-supercharging-ai-agents-with-graphiti-95f83965f52b?sk=439adc99a1610155d2899147d77a33ee)
 - [Building a Scalable Job Processing System with JobRunr](https://medium.com/@rajatnigam89/building-a-scalable-job-processing-system-with-jobrunr-8ef8b9165e41)
 - [Breaking Silos: How We Built a Cross-Database Query Federation with Pgpool-II and Postgres_FDW for Our Microservices](https://medium.com/dev-genius/breaking-silos-how-we-built-a-cross-database-query-federation-with-pgpool-ii-and-postgres-fdw-for-1c87d115176e)
 - [Understanding MCP Architecture: Single-Server vs Multi-Server Clients](https://medium.com/gopenai/understanding-mcp-architecture-single-server-vs-multi-server-clients-8c62a1590886)
