@@ -45,6 +45,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How LLMLingua and Pydantic AI Agents Helped Us Cut LLM Costs by 93% with 51x Token Reduction](https://medium.com/@rajatnigam89/how-llmlingua-and-pydantic-ai-agents-helped-us-cut-llm-costs-by-93-with-51x-token-reduction-dd8071016c81?sk=c1a6648e63166dfe2893e1199eab8e1d)
+- [Building Agentic RAG: 100x Faster Retrieval with Graphiti and LangGraph](https://medium.com/gopenai/building-agentic-rag-100x-faster-retrieval-with-graphiti-and-langgraph-20198a2ed1ec?sk=abf4a4df9581fed28219f1a09dd8d988)
 - [Building Dynamic Knowledge Graphs: Supercharging AI Agents with Graphiti](https://rajatnigam89.medium.com/building-dynamic-knowledge-graphs-supercharging-ai-agents-with-graphiti-95f83965f52b?sk=439adc99a1610155d2899147d77a33ee)
 - [Building a Scalable Job Processing System with JobRunr](https://medium.com/@rajatnigam89/building-a-scalable-job-processing-system-with-jobrunr-8ef8b9165e41)
 - [Breaking Silos: How We Built a Cross-Database Query Federation with Pgpool-II and Postgres_FDW for Our Microservices](https://medium.com/dev-genius/breaking-silos-how-we-built-a-cross-database-query-federation-with-pgpool-ii-and-postgres-fdw-for-1c87d115176e)
