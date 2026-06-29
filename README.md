@@ -45,6 +45,15 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding Kitaru While Building an Agent Harness](https://medium.com/python-in-plain-english/finding-kitaru-while-building-an-agent-harness-aca4660d2233?sk=cb5867f2c7af676700d63d55c60e9160)
+- [Building a Small GenBI Agent With an Open Context Layer](https://medium.com/python-in-plain-english/building-a-small-genbi-agent-with-an-open-context-layer-40b4f72f1070?sk=4511ca081be34bc8f407c4141d339aeb)
+- [LLM Engineering: Deep Dive into Computer Vision with PyTorch](https://medium.com/python-in-plain-english/llm-engineering-deep-dive-into-computer-vision-with-pytorch-f20af742add1?sk=097e5cae129a3255f05b2a46ee830b13)
+- [LLM Engineering: Building a Binary Classification Model with PyTorch](https://medium.com/gopenai/llm-engineering-building-a-binary-classification-model-with-pytorch-07938ee94067)
+- [LLM Engineering: PyTorch Fundamentals with Linear Regression](https://medium.com/python-in-plain-english/llm-engineering-pytorch-fundamentals-with-linear-regression-c49aadc25c8d)
+- [Building a High-Performance Hub-and-Spoke Microservices Architecture with Spring Boot 4.x and NATS](https://medium.com/faun/building-a-high-performance-hub-and-spoke-microservices-architecture-with-spring-boot-4-x-and-nats-3d9a2c895400?sk=01c75c540e0d483f3d002e7ca3e35449)
+- [Talk to Your Data Like a Human with WrenAI](https://medium.com/python-in-plain-english/talk-to-your-data-like-a-human-with-wrenai-6722c85871b0)
+- [Securing MCP Tools with CEL and AgentGateway](https://medium.com/gopenai/securing-mcp-tools-with-cel-and-agentgateway-82fb9935330a)
+- [Building a Composable A2A Helpdesk Assistant Using Pydantic-AI and FastMCP](https://medium.com/python-in-plain-english/building-a-composable-a2a-helpdesk-assistant-using-pydantic-ai-and-fastmcp-a69c51bbe9b8)
 - [How LLMLingua and Pydantic AI Agents Helped Us Cut LLM Costs by 93% with 51x Token Reduction](https://medium.com/@rajatnigam89/how-llmlingua-and-pydantic-ai-agents-helped-us-cut-llm-costs-by-93-with-51x-token-reduction-dd8071016c81?sk=c1a6648e63166dfe2893e1199eab8e1d)
 - [Building Agentic RAG: 100x Faster Retrieval with Graphiti and LangGraph](https://medium.com/gopenai/building-agentic-rag-100x-faster-retrieval-with-graphiti-and-langgraph-20198a2ed1ec?sk=abf4a4df9581fed28219f1a09dd8d988)
 - [Building Dynamic Knowledge Graphs: Supercharging AI Agents with Graphiti](https://rajatnigam89.medium.com/building-dynamic-knowledge-graphs-supercharging-ai-agents-with-graphiti-95f83965f52b?sk=439adc99a1610155d2899147d77a33ee)
