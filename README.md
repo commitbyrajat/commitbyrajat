@@ -22,7 +22,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,scala,go,javascript,typescript,python,rust,react,nodejs,graphql,spring,mysql,mongodb,postgres,redis,kafka,elasticsearch,docker,kubernetes,terraform,gcp,aws,azure,git,github,githubactions,linux,bash,prometheus,grafana&theme=dark" />
 </p>
-<br />
 
 ---
 
