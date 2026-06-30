@@ -25,7 +25,7 @@
 
 ---
 
-### ✍️ Latest Medium Article
+### ✍️ Latest Medium Articles
 
 <p align="center">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajatnigam89/0"/>
