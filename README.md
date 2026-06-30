@@ -42,7 +42,17 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### ✍️ Latest Medium Article
+
+<p align="center">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajatnigam89/0"/>
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajatnigam89/1"/>
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajatnigam89/2"/>
+</p>
+
+---
+
+### 📕 All Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Finding Kitaru While Building an Agent Harness](https://medium.com/python-in-plain-english/finding-kitaru-while-building-an-agent-harness-aca4660d2233?sk=cb5867f2c7af676700d63d55c60e9160)
